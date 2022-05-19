@@ -1,0 +1,12 @@
+.col-md-7 {
+    margin-top: 25px;
+    font-size: 21px;
+}
+button#buscar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div#informacao-completo {
+    background: #f0f0f0;
+    padding: 25px 5px;
+}
